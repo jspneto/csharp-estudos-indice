@@ -22,6 +22,10 @@ Os conceitos abordados estão agrupados da seguinte forma:
 
 Os Métodos Estáticos (Static) e a Sobrescrita (Override) estão aplicados na organização do código.
 
+### [Comparação das Áreas de Dois Triângulos][1]
+- **Descrição:** Compara as áreas de dois triângulos quaisquer e retorna a maior
+- **Conceitos aplicados:** Solução Procedural
+
 ## Organização e Versionamento
 
 Cada projeto possui seu próprio versionamento baseado em tags:
@@ -40,3 +44,5 @@ Este índice serve como:
 - Registro público de evolução técnica
 
 Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versão**.
+
+[1]: https://github.com/jspneto/csharp-estudos-comparacao-triangulos "comparacao triangulos"
