@@ -26,6 +26,10 @@ Os Métodos Estáticos (Static) e a Sobrescrita (Override) estão aplicados na o
 - **Descrição:** Compara as áreas de dois triângulos quaisquer e retorna a maior
 - **Conceitos aplicados:** Solução Procedural → Classes → Construtores → Encapsulamento.
 
+### [Controle de Estoque Básico][2]
+- **Descrição** Cria, altera e valcula o valor dos itens em estoque de um produto.
+- **Conceitos aplicados:** Classes → Construtores → Encapsulamento.
+
 ## Organização e Versionamento
 
 Cada projeto possui seu próprio versionamento baseado em tags:
@@ -46,3 +50,4 @@ Este índice serve como:
 Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versão**.
 
 [1]: https://github.com/jspneto/csharp-estudos-comparacao-triangulos "comparacao triangulos"
+[2]: https://github.com/jspneto/csharp-estudos-constrole-estoque "controle estoque"
