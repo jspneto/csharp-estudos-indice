@@ -34,10 +34,10 @@ Os Métodos Estáticos (Static) e a Sobrescrita (Override) estão aplicados na o
 
 Cada projeto possui seu próprio versionamento baseado em tags:
 
-- `v0.x` — Evolução conceitual inicial
-- `v1.x` — Estrutura orientada a objetos mais consolidada
-
-As tags registram **mudanças conceituais**, não apenas correções de código.
+- `v1.0.0` — Estrutura orientada a objetos consolidada
+- `v0.x.0` — Evolução de conceitos de orientação a objetos
+- `v0.x.y` — Evolução estrutural dentro de um conceito
+- `v0.x.y-fix.z` — Correção de erros em geral
 
 ## Objetivo do repositório
 
