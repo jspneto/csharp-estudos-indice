@@ -24,7 +24,7 @@ Os Métodos Estáticos (Static) e a Sobrescrita (Override) estão aplicados na o
 
 ### [Comparação das Áreas de Dois Triângulos][1]
 - **Descrição:** Compara as áreas de dois triângulos quaisquer e retorna a maior
-- **Conceitos aplicados:** Solução Procedural
+- **Conceitos aplicados:** Solução Procedural → Classes → Construtores → Encapsulamento.
 
 ## Organização e Versionamento
 
