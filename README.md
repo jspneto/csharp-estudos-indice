@@ -34,6 +34,10 @@ Os Métodos Estáticos (Static) e a Sobrescrita (Override) estão aplicados na o
 - **Descrição:** Cria um retângulo e calcula a área, o perímetro e a diagonal.
 - **Conceitos aplicados:** Classes → Construtores → Encapsulamento.
 
+### [Cáculo de Aumento Salarial][4]
+- **Descrição:** Calcula o salário de um funcionário com base em imposto e percetual de aumento.
+- **Conceitos aplicados:** Classes → Construtores → Encapsulamento.
+
 ## Organização e Versionamento
 
 Cada projeto possui seu próprio versionamento baseado em tags:
@@ -56,3 +60,4 @@ Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versã
 [1]: https://github.com/jspneto/csharp-estudos-comparacao-triangulos "comparacao triangulos"
 [2]: https://github.com/jspneto/csharp-estudos-constrole-estoque "controle estoque"
 [3]: https://github.com/jspneto/csharp-estudos-metricas-retangulo "metricas retangulo"
+[4]: https://github.com/jspneto/csharp-estudos-aumento-salarial "aumento salarial"
