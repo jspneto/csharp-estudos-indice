@@ -38,6 +38,10 @@ Os Métodos Estáticos (Static) e a Sobrescrita (Override) estão aplicados na o
 - **Descrição:** Calcula o salário de um funcionário com base em imposto e percetual de aumento.
 - **Conceitos aplicados:** Classes → Construtores → Encapsulamento.
 
+### [Cálculo da Nota Final][5]
+- **Descrição:** Calcula a nota final de um aluno a partir de suas três notas trimestrais.
+- **Conceitos aplicados:** Classes → Construtores → Encapsulamento.
+
 ## Organização e Versionamento
 
 Cada projeto possui seu próprio versionamento baseado em tags:
@@ -61,3 +65,4 @@ Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versã
 [2]: https://github.com/jspneto/csharp-estudos-constrole-estoque "controle estoque"
 [3]: https://github.com/jspneto/csharp-estudos-metricas-retangulo "metricas retangulo"
 [4]: https://github.com/jspneto/csharp-estudos-aumento-salarial "aumento salarial"
+[5]: https://github.com/jspneto/csharp-estudos-nota-final "nota final"
