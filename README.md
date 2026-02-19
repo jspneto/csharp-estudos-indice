@@ -46,6 +46,10 @@ Os Métodos Estáticos (Static) e a Sobrescrita (Override) estão aplicados na o
 - **Descrição:** Calcula o valor a ser pago na aquisição de uma boeda, considerando o imposto.
 - **Conceitos aplicados:** Membros Estáticos.
 
+### [Cálculo das Principais Métricas de uma Esfera][7]
+- **Descrição:** Calcula a circunferência e o voluma de uma esfera, a partir do raio.
+- **Conceitos aplicados:** Membros Estáticos.
+
 ## Organização e Versionamento
 
 Cada projeto possui seu próprio versionamento baseado em tags:
@@ -71,3 +75,4 @@ Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versã
 [4]: https://github.com/jspneto/csharp-estudos-aumento-salarial "aumento salarial"
 [5]: https://github.com/jspneto/csharp-estudos-nota-final "nota final"
 [6]: https://github.com/jspneto/csharp-estudos-conversor-moeda "conversor moeda"
+[7]: https://github.com/jspneto/csharp-estudos-metricas-esfera "metricas esfera"
