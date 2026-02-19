@@ -42,6 +42,10 @@ Os Métodos Estáticos (Static) e a Sobrescrita (Override) estão aplicados na o
 - **Descrição:** Calcula a nota final de um aluno a partir de suas três notas trimestrais.
 - **Conceitos aplicados:** Classes → Construtores → Encapsulamento.
 
+### [Simulador Simples de Sistema Bancário][8]
+- **Descrição:** Cria uma conta bancária e gerencia operações de depósito e saque.
+- **Conceitos aplicados:** Encapsulamento.
+
 ### [Conversor de Moedas Simples][6]
 - **Descrição:** Calcula o valor a ser pago na aquisição de uma boeda, considerando o imposto.
 - **Conceitos aplicados:** Membros Estáticos.
@@ -76,3 +80,4 @@ Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versã
 [5]: https://github.com/jspneto/csharp-estudos-nota-final "nota final"
 [6]: https://github.com/jspneto/csharp-estudos-conversor-moeda "conversor moeda"
 [7]: https://github.com/jspneto/csharp-estudos-metricas-esfera "metricas esfera"
+[8]: https://github.com/jspneto/csharp-estudos-conta-bancaria "conta bancaria"
