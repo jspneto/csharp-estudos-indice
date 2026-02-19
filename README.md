@@ -42,6 +42,10 @@ Os Métodos Estáticos (Static) e a Sobrescrita (Override) estão aplicados na o
 - **Descrição:** Calcula a nota final de um aluno a partir de suas três notas trimestrais.
 - **Conceitos aplicados:** Classes → Construtores → Encapsulamento.
 
+### [Conversor de Moedas Simples][6]
+- **Descrição:** Calcula o valor a ser pago na aquisição de uma boeda, considerando o imposto.
+- **Conceitos aplicados:** Membros Estáticos.
+
 ## Organização e Versionamento
 
 Cada projeto possui seu próprio versionamento baseado em tags:
@@ -66,3 +70,4 @@ Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versã
 [3]: https://github.com/jspneto/csharp-estudos-metricas-retangulo "metricas retangulo"
 [4]: https://github.com/jspneto/csharp-estudos-aumento-salarial "aumento salarial"
 [5]: https://github.com/jspneto/csharp-estudos-nota-final "nota final"
+[6]: https://github.com/jspneto/csharp-estudos-conversor-moeda "conversor moeda"
